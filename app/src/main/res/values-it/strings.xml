@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ScoreMaster</string>
+
+    <!-- Button Labels -->
+    <string name="btn_increase_score">Aumenta</string>
+    <string name="btn_decrease_score">Diminuisci</string>
+    <string name="btn_reset_score">Reset</string>
+
+    <!-- Score Display -->
+    <string name="score_label">Punteggio</string>
+
+    <!-- Logging Messages -->
+    <string name="log_ui_ready">interfaccia utente è completamente inizializzata e pronta.</string>
+    <string name="log_score_updated">Punteggio aggiornato a: %1$d</string>
+    <string name="log_winning_sound">Riproduzione del suono di vittoria.</string>
+</resources>

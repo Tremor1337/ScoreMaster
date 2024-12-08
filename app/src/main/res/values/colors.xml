@@ -1,0 +1,10 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_700">#018786</color>
+    <color name="red_500">#F44336</color>
+
+    <!-- Secondary Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
